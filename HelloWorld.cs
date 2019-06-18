@@ -6,8 +6,8 @@ namespace HelloWorld
     {
         static void Main()
         {
-            Console.WriteLn("Hello, World !");
-            Console.WriteLn("Hello, World !");
+            Console.WriteLn("Hello, World 1!");
+            Console.WriteLn("Hello, World 2!");
         }
     }
 }
