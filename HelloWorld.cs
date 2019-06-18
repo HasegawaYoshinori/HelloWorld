@@ -6,7 +6,7 @@ namespace HelloWorld
     {
         static void Main()
         {
-            Console.WriteLn("Hello, World !");
+            Console.WriteLn("Hello, World test!");
         }
     }
 }
